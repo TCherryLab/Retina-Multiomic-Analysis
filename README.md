@@ -1,2 +1,2 @@
-# This is the repository for our manuscript titled Multi-omic Analysis of Developing Human Retina and Organoids Reveals Cell-Specific Cis-Regulatory Elements and Mechanisms of Non-Coding Genetic Disease Risk (currently in revision)
-Link: https://www.biorxiv.org/content/10.1101/2021.07.31.454254v1
+# This is the repository for our paper titled Cell-specific cis-regulatory elements and mechanisms of non-coding genetic disease in human retina and retinal organoids
+Link: https://www.sciencedirect.com/science/article/abs/pii/S1534580722001204?dgcid=author
